@@ -187,5 +187,5 @@ mysqli_close($sql);
 <!-- FOOTER -->
 <center>
     <footer class="container">
-        <font color="#DCDCDC"><p>&copy; Por Matheus Victor e Sofia Pintor &middot;</p></font>
+        <font color="#DCDCDC"><p>&copy; Por Matheus Victor &middot;</p></font>
     </footer></center></body></html>
